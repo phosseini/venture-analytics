@@ -19,7 +19,6 @@ venture-analytics/
 ├── notebooks/
 │   ├── yc-analytics.ipynb       # Main analysis notebook
 │   ├── yc_health_tags.txt       # List of health/biotech-related tags
-│   └── yc_unique_tags.txt       # All unique tags in the dataset
 └── README.md
 ```
 
